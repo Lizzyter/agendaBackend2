@@ -94,7 +94,7 @@ php -S localhost:8000 -t public
 * 🟣 La tabla contacto otros número, establecerá la relación entre el id del nuevo número y el id del contacto al cual se le asignará. 
 
 ## 📂 Fronted
-Podrás encontrar el repositoria del fronted para que puedas realizar las pruebas necesarias del CRUD.
+Podrás encontrar el repositorio del fronted para que puedas realizar las pruebas necesarias del CRUD.
 <br>
 
 [Fronted de la aplicación](https://github.com/Lizzyter/agendaFronted)
