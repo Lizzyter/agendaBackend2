@@ -97,7 +97,7 @@ php -S localhost:8000 -t public
 Podrás encontrar el repositorio del fronted para que puedas realizar las pruebas necesarias del CRUD.
 <br>
 
-[Fronted de la aplicación](https://github.com/Lizzyter/agendaFronted)
+[Fronted de la aplicación](https://github.com/Lizzyter/agendaFrontedEAM)
 
 
 ## Maintainer
